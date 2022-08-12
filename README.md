@@ -1,0 +1,2 @@
+# rihen
+Creating simple program
