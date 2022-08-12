@@ -1,2 +1,8 @@
-# rihen
-Creating simple program
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!\n";
+    return 0;
+}
